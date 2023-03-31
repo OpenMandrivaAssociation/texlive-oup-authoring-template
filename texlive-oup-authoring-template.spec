@@ -1,6 +1,6 @@
 Name:		texlive-oup-authoring-template
 Version:	64491
-Release:	1
+Release:	2
 Summary:	A general template for journals published by Oxford University Press (OUP)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/oup-authoring-template
