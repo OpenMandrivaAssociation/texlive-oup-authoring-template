@@ -1,9 +1,9 @@
 %global tl_name oup-authoring-template
-%global tl_revision 79192
+%global tl_revision 79679
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	1.3
+Version:	1.5
 Release:	%{tl_revision}.1
 Summary:	A general template for journals published by Oxford University Press (OUP)
 Group:		Publishing
